@@ -1,0 +1,1239 @@
+(2023) 1 Supreme Court Cases 472 : (2022) 22 GSTR-OL 6 : 2022
+In the Supreme Court of India
+(BEFORE N.V. RAMANA, C.J. AND J.K. MAHESHWARI AND HIMA KOHLI, JJ.)
+SUNDARESH BHATT, LIQUIDATOR OF ABG
+SHIPYARD
+Appellant;
+Versus
+CENTRAL BOARD OF INDIRECT TAXES AND
+CUSTOMS
+Respondent.
+Civil Appeal No. 7667 of decided on August 26, 2022
+A. Insolvency and Bankruptcy Code, 2016 - Ss. 238 and 14 - Primacy
+of IBC over Customs Act - IBC, being the more recent statute, held, clearly
+overrides the Customs Act - In any case, S. 238 IBC clearly provides that
+IBC overrides any provision of law which is inconsistent with the IBC
+- This is clearly made out by a reading of S. 142-A of the Customs Act which
+notes that the Customs Authorities would have first charge on the assets of an
+assessee under the Customs Act, except with respect to cases under S. 529-A of
+the Companies Act, 1956, Recovery of Debts and Bankruptcy Act, 1993,
+Securitisation and Reconstruction of Financial Assets and Enforcement of Security
+Interest Act, 2002 and the IBC, 2016 - Further, such an exception created under
+the Customs Act is duly acknowledged under S. 238 IBC as well
+- Held, the Customs Act and the IBC act in their own spheres and in case of
+any conflict, the IBC overrides the Customs Act - In present case, held, the Court
+has to ascertain as to whether there is a conflict in the operation of two different
+statutes in the given circumstances and as the first effort, Court is mandated to
+harmoniously read the two legislations, unless the Court finds a clear conflict in its
+operation (see also Shortnote B) - Customs Act, 1962 - S. 142-A - Statute Law
+- Later Acts/Subsequent Acts - Non Obstante Clause/Relative scope of
+Provisions/Statutes/Addition to/Non Derogation Clause
+(Paras 40 to 43)
+B. Insolvency and Bankruptcy Code, 2016 - Ss. 238, 14 and 53 - IBC
+and Customs Act - Harmonious construction of - Held, though the IBC has
+overriding effect over the Customs Act (see Shortnote A), the Customs Act
+and IBC can be read in a harmonious manner wherein the authorities under
+the Customs Act have a limited jurisdiction to determine the quantum of
+operational debt, in this case, the customs duty, in order to stake claim in
+terms of S. 53 IBC before the liquidator - However, the
+respondent/authority does not have the power to execute its claim beyond
+the ambit of S. 53 IBC - Customs Act, 1962, S. 142-A
+(Para 50)
+C. Insolvency and Bankruptcy Code, 2016 - Ss. 14 and 33(5) -
+Demand notices seeking enforcement of customs dues during the
+moratorium period - Invalidity of - Sale of warehoused goods belonging to
+the corporate debtor under liquidation, by Customs Authority -
+Impermissibility of - Custody over warehoused goods - Grantability of, to
+IRP/RP/liquidator i.e. despite existence of customs dues
+- Held, demand notices to seek enforcement of customs dues during the
+moratorium period would violate the provisions of S. 14 or S. 33(5) IBC, as the
+case may be, because the demand notices are an initiation of legal proceedings
+against the corporate debtor - Held, once moratorium is imposed in terms of S.
+14 or S. 33(5) IBC as the case may be, the respondent authority only has a limited
+jurisdiction to assess/determine the quantum of customs duty and other levies and
+the authority does not have the power to initiate recovery of dues by means of
+sale/confiscation, as provided under the Customs Act - Further, after such
+assessment, the respondent authority has to submit its claims (concerning customs
+dues/operational debt) in terms of the procedure laid down, in strict compliance of
+the time periods prescribed under the IBC, before the adjudicating authority - Held,
+in any case, the IRP/RP/liquidator can immediately secure goods from the authority
+to be dealt with appropriately, in terms of the IBC - Customs Act, 1962, S. 72
+(Paras 44 to 53 and 57)
+D. Insolvency and Bankruptcy Code, 2016 - Ss. 14, 25 and 33(5) - Title
+over warehoused goods on which customs duty is not paid - Non-vesting of
+in Customs Authority, when liquidation process under IBC stands initiated
+- Nclat, in allowing the appeal of the respondent authority, inter alia, held that
+the goods lying in the customs bonded warehouse were not the corporate debtor's
+assets as they were neither claimed by the corporate debtor after their import, nor
+were the bills of entry cleared for some of the said goods and by not filing the said
+bills of entry, the Nclat held that the importer i.e. the corporate debtor, had
+relinquished his title to the imported goods - Nclat also held that the corporate
+debtor is deemed to have lost his title to the imported goods by action of Ss. 48
+and 72 of the Customs Act
+- Held, the interpretation provided by the Nclat, regarding the deemed transfer
+of title of the goods from the assessee to the Customs Authority under S. 72 of
+the Customs Act, would fly in the face of S. 14 IBC r/w Ss. 25 and 33(5) IBC -
+Moreover, such deemed transfer cannot be countenanced in law as the same would
+be in breach of Art. 300-A of the Constitution, as properties are deemed to be
+transferred to the Customs Authority without there being adequate hearing or any
+adjudication of any form - Customs Act, 1962, S. 72
+(Paras 14 and 51 to 54)
+On 1-8-2017, the National Company Law Tribunal, Ahmedabad ("NCLT") passed
+an order commencing the Corporate Insolvency Resolution Process ("CIRP")
+against the corporate debtor, and the appellant was appointed as the
+Interim Resolution Professional. In the same order, the NCLT also declared a
+moratorium under Section 13(1)(a) of the Insolvency and Bankruptcy Code, 2016
+("IBC").
+On 21-8-2017, the appellant informed the respondent of the initiation of CIRP
+and sought custody of the warehoused goods and requested the respondent not to
+dispose of or auction the same. On 29-3-2019, the respondent for the first time,
+issued a notice to the corporate debtor regarding non-fulfilment of export
+obligations in terms of the EPCG licence demanding customs duty of Rs 17,13,989
+with interest. From 2-4-2019 to 7-4-2019, the respondent issued five different
+demand notices to the corporate debtor regarding non-fulfilment of export
+obligations under different EPCG licences for various amounts.
+On 25-4-2019, the NCLT passed an order commencing liquidation against the
+corporate debtor under Section 33(2) IBC. Vide the said order, the NCLT declared
+that the earlier moratorium imposed under Section 13(1)(a) IBC shall cease to
+have effect by the operation of Section 14(4) IBC. However, a fresh direction was
+passed under Section 33(5) IBC barring the institution of any suit or legal
+proceeding by or against the corporate debtor. Further, the NCLT also appointed
+the appellant as the liquidator vide the same order.
+Thereafter, the respondent filed claims before the appellant for goods
+warehoused in both Gujarat and Maharashtra on 20-5-2019, 27-5-2019 and 29-5
+-2019 under the IBC. On 27-6-2019, the appellant informed the respondent
+through its officers that liquidation proceedings had commenced against the
+corporate debtor and that the goods were to be released to the appellant.
+Due to inaction by the respondent, the appellant filed IA No. 474 of 2019 before
+the NCLT under Section 60(5) IBC seeking a direction against the respondent to
+release the warehoused goods belonging to the corporate debtor on 1-7-2019.
+At this juncture, for the first time on 11-7-2019, the respondent issued a notice
+to the corporate debtor under Section 72(1) of the Customs Act for customs dues
+amounting to Rs 763,12,72,645 on 2531 bills of entries. The respondent filed a
+concurrent claim for the said amount before the appellant under the IBC.
+The issues involved in this appeal were:
+(1) Whether the provisions of the IBC would prevail over the Customs Act,
+and if so, to what extent?
+(2) Whether the respondent could claim title over the goods and issue notice
+to sell the goods in terms of the Customs Act when the liquidation process has
+been initiated?
+Allowing the appeal, the Supreme Court
+Held :
+The warehoused goods belonging to the corporate debtor which is under
+liquidation, are sought to be sold by the Customs Authorities in lieu of customs
+dues. The respondent has relied on certain provisions of the Customs Act to
+assume such power. This has been vehemently opposed by the appellant herein,
+who has argued that once the insolvency process has been initiated against the
+corporate
+debtor, the IBC becomes squarely applicable and overrides any other enactment
+giving priority to the charges on the property.
+(Para 22)
+When goods are warehoused and the importer has not taken sufficient steps to
+take the goods out for domestic consumption or for transshipment, within the
+required time period, then the proper officer has to take steps in terms of Section
+72(2) of the Customs Act. It is only after the determination of dues by the proper
+officer that goods may be sold, in the event that the demanded amount relating to
+customs duty, interest, fines, and other penalties have not been paid. In that case
+alone, after such determination, a sufficient portion of goods may be sold.
+(Para 31)
+In the present case, the corporate debtor as part of its business used to
+regularly import and warehoused goods in the customs bonded warehouses from
+at least 2011. The CIRP process commenced against the corporate debtor on 1-8-
+2017 by the order of the NCLT. It appears from the record that no notices were
+issued by the respondent against the corporate debtor with respect to the
+warehoused goods prior to initiation of the CIRP. In fact, all the duty demand
+notices issued by the respondent were from March 2019 onwards.
+(Para 33)
+The Insolvency and Bankruptcy Code came into force in India from 28-5-2016
+to combine provisions relating to insolvency found across different statutes into a
+single comprehensive instrument. Under the earlier legal regime, different statutes
+were resulting in multiple parallel proceedings, which inevitably resulted in
+uncertainty for the creditors over their recovery. One of the objectives behind the
+enactment of the IBC was to end the conflict between different statutes.
+(Para 34)
+Halsbury's Laws of England, Para 8, Vol. III, 4th Edn., referred to
+When the insolvency process commences, the adjudicating authority is
+mandated to declare a moratorium on continuation or initiation of any coercive
+legal action against the corporate debtor.
+(Para 37)
+Section 14 IBC prescribes a moratorium on the initiation of CIRP proceedings
+and its effects. One of the purposes of the moratorium is to keep the assets of the
+corporate debtor together during the insolvency resolution process and to facilitate
+orderly completion of the processes envisaged under the statute. Such measures
+ensure the curtailing of parallel proceedings and reduce the possibility of conflicting
+outcomes in the process.
+(Para 38)
+Even if a company goes into liquidation, a moratorium continues in terms of
+Section 33(5) IBC.
+(Para 39)
+The IBC, being the more recent statute, clearly overrides the Customs Act. This
+is clearly made out by a reading of Section 142-A of the Customs Act. The
+aforesaid provision notes that the Customs Authorities would have first charge on
+the assets of an assessee under the Customs Act, except with respect to cases
+under Section 529-A of the Companies Act, 1956, Recovery of Debts and
+Bankruptcy Act, 1993, Securitisation and Reconstruction of Financial Assets and
+Enforcement of Security Interest Act, 2002 and the IBC, 2016.
+(Para 40)
+Accordingly, such an exception created under the Customs Act is duly
+acknowledged under Section 238 IBC as well. Additionally, Section 238 IBC clearly
+overrides any provision of law which is inconsistent with the IBC.
+(Para 41)
+108 ELT 342 (Cal), held, statutorily overruled
+The Customs Act and the IBC act in their own spheres. In case of any conflict,
+the IBC overrides the Customs Act. In present context, the Court has to ascertain
+as to whether there is a conflict in the operation of two different statutes in the
+given circumstances. As the first effort, the Court is mandated to harmoniously
+read the two legislations, unless the Supreme Court finds a clear conflict in its
+operation.
+(Para 43)
+The demand notices issued by the respondent are plainly in the teeth of Section
+14 IBC as they were issued after the initiation of the CIRP proceedings. Moratorium
+under Section 14 IBC was imposed when insolvency proceedings were initiated on 1
+-8-2017. The first notice sent by the respondent authority was on 29-3-2019.
+Further, when insolvency resolution failed and the liquidation process began, the
+NCLT passed an order on 25-4-2019 imposing a moratorium under Section 33(5)
+IBC. It is only after this order that the respondent issued a notice under Section 72
+of the Customs Act against the corporate debtor. The various demand notices have
+therefore clearly been issued by the respondent after the initiation of the insolvency
+proceedings, with some notices issued even after the liquidation moratorium was
+imposed.
+(Para 44)
+The demand notices to seek enforcement of customs dues during the
+moratorium period would clearly violate the provisions of Sections 14 or 33(5) IBC,
+as the case may be. This is because the demand notices are an initiation of legal
+proceedings against the corporate debtor.
+(Para 45)
+The authorities can only take steps to determine the tax, interest, fines or any
+penalty which is due. However, the authority cannot enforce a claim for recovery or
+levy of interest on the tax due during the period of moratorium.
+(Para 47)
+242 : (1968) 68 ITR 295, held, overruled
+The respondent could only initiate assessment or re-assessment of the duties
+and other levies. They cannot transgress such boundary and proceed to initiate
+recovery in violation of Sections 14 or 33(5) IBC. The interim resolution
+professional, resolution professional or the liquidator, as the case may be, has an
+obligation to ensure that assessment is legal and he has been provided with
+sufficient power to question any assessment, if he finds the same to be excessive.
+(Para 48)
+In the present case, the demand notice dated 11-7-2019 was issued by the
+respondent under Section 72 of the Customs Act, in clear breach of the
+moratorium imposed under Section 33(5) IBC. Issuing a notice under Section 72 of
+the Customs Act for non-payment of customs duty falls squarely within the ambit
+of initiating legal proceedings against a corporate debtor. Even under the liquidation
+process, the liquidator is given the responsibility to secure assets and goods of the
+corporate debtor under Section 35(1)(b) IBC.
+(Para 49)
+The Customs Act and IBC can be read in a harmonious manner wherein the
+authorities under the Customs Act have a limited jurisdiction to determine the
+quantum of operational debt - in this case, the customs duty - in order to stake
+claim in terms of Section 53 IBC before the liquidator. However, the respondent
+does not have the power to execute its claim beyond the ambit of Section 53 IBC.
+(Para 50)
+(Civ) 1, affirmed
+There was no "abandonment of goods" which would authorise the Customs
+Authorities to initiate the adjudicatory process to transfer title to themselves.
+Before any goods can be declared to have been "abandoned", the same must be
+adjudged by some authority after due notice. The position cannot be assumed or
+deemed. In the case at hand, no such adjudication or notice has been placed on
+record to suggest that such abandonment of the warehoused goods had taken
+place prior to the imposition of the moratorium.
+(Para 52)
+The fact is that the duty demand notice and notice under Section 72(2) of the
+Customs Act, were issued during the moratorium period, which has been
+completely ignored by the NCLAT and has resulted in rendering the moratorium
+otiose.
+(Para 53)
+The interpretation provided by the NCLAT, regarding the deemed transfer of title
+of the goods from the assessee to the Customs Authority under Section 72 of the
+Customs Act, would fly in the face of Section 14 IBC, read with Sections 25 and 33
+(5). Moreover, such deemed transfer cannot be countenanced in law as the same
+would be in breach of Article 300-A of the Constitution, as properties are deemed
+to be transferred to the Customs Authority without there being adequate hearing or
+any adjudication of any form.
+(Para 54)
+Conclusions
+Thus, it is concluded as follows:
+(1) Once moratorium is imposed in terms of Sections 14 or 33(5) IBC as the
+case may be, the respondent authority only has a limited jurisdiction to
+assess/determine the quantum of customs duty and other levies. The
+respondent authority does not have the power to initiate recovery of dues by
+means of sale/confiscation, as provided under the Customs Act.
+(2) After such assessment, the respondent authority has to submit its claims
+(concerning customs dues/operational debt) in terms of the procedure laid
+down, in strict compliance of the time periods prescribed under the IBC, before
+the adjudicating authority.
+(3) In any case, the IRP/RP/liquidator can immediately secure goods from
+the respondent authority to be dealt with appropriately, in terms of the IBC.
+(para 57)
+NCLAT 2244, reversed
+NCLT 2191, referred to
+VN-D/69165/CV
+Advocates who appeared in this case:
+Dr Abhishek Manu Singhvi, Gaurav Mitra, Arvind Datar, J. Salva and
+Jay Savla, Senior Advocates [Sameer Pandit, Aman Raj Gandhi
+(Advocate-on-Record), Parthasarathy Bose, Anuj Jain, Aditya Ladha,
+Ananya Pratap Singh, Azeem Samuel, Nidhiram, Akash Kakade,
+Somanath Padhan (Advocate-on-Record), Gurdeep Singh Sachar,
+Vikrant Shetty, Swetab Kumar, Abhishek Sharma, Ms Ashly Cherian,
+Gaurav Arora, Ms Renuka, Kamlendra Singh, Ms Renuka Sahu and Alok
+Tripathi (Advocate-on-Record), Advocates], for the Appellant;
+K.M. Nataraj, Additional Solicitor General, Mukul Rohatgi, Siddhartha
+Dave and Vikram Nankani, Senior Advocates [Sharath Nambiar, Vatsal
+Joshi, Anuj Srinivas Udupi, Nakul Chingappa K.K., Mukesh Kr. Maroria
+(Advocate-on-Record), Shiv Mangal Sharma, Saurabh Rajpal, Shashank
+Khurana, Ms Shrinjan Khosla (for M/s Aura & Co.) (Advocate-on-
+Record), Gaurav Mathur, Abhishek Shah, Ms Anushree Prashit Kapadia,
+Divyank Dutt Dwivedi, Ravi Singh Chhikara, Jasdeep Singh Dhillon,
+Salil Thakore, Rahul Gupta (Advocate-on-Record), Prabhat Kr.
+Chaurasia, M/s Cyril Amarchand Mangaldas (Advocate-on-Record), Ms
+Anushree Prashit Kapadia (Advocate-on-Record), Aman Raj Gandhi
+(Advocate-on-Record), Prabhat Kr. Rai and Naveen Kumar (Advocate-
+on-Record), Advocates], for the Respondent.
+Chronological list of cases cited
+on page(s)
+Urja Vikas Nigam Ltd. V. Amit Gupta
+494f-g, 495a
+Indirect Taxes & Customs V. Sundaresh Bha#78f-g, 478g, 481f-g, 482f-
+(reversed)
+g, 485a, 495a, 496g-h
+Central Board of Indirect Taxes & Customs
+480f-g, 481f-g
+Sundaresh Bhatt
+480a, 485g, 486a, 492b-c
+ABG Shipyard Ltd.
+479b-c, 487g-h, 492b-c
+(Cal), Collector of Customs V. Dytron (India) Ltd.
+(held statutorily overruled)
+491g
+Deshpande
+492e, 494a-b
+Mysore Spun Silk Mills Ltd. (In Liquidation), In re
+(held, overruled)
+494a
+Union of India V. Seth Spinning Mills Ltd. (held,
+overruled)
+494a
+The Judgment of the Court was delivered by
+N.V. RAMANA, C.J. - The present civil appeal under Section 62(1) of
+the Insolvency and Bankruptcy Code, 2016 ("IBC") arises out of the
+impugned judgment dated 22-11-20211 passed by the National
+Company Law Appellate Tribunal, New Delhi ("NCLAT") in Company
+Appeal (AT) (Insolvency) No. 236 of 2021. Vide the impugned
+judgment1, NCLAT has allowed the appeal filed by the respondent
+against the order of the National Company Law Tribunal, Ahmedabad
+("NCLT")/adjudicating authority whereby the adjudicating authority
+directed the release of certain goods lying in the Customs Bonded
+Warehouses without payment of customs duty and other levies.
+2. A conspectus of the facts necessary for the disposal of the present
+appeal is as follows : ABG Shipyard ("corporate debtor") was in the
+business of shipbuilding prior to the initiation of corporate insolvency
+proceedings against it. As a part of its business enterprise, it used to
+regularly import various materials for the purpose of constructing ships
+which were to be exported on completion. Some of these goods were
+stored by the corporate debtor in Customs Bonded Warehouses in
+Gujarat and Container Freight Stations in Maharashtra. Bills of entry for
+warehousing were submitted at the relevant time. The corporate debtor
+also took the benefit of an Export Promotion Capital Goods Scheme
+("EPCG Scheme") and was granted a licence under the said scheme
+("EPCG licence") with respect to the said warehoused goods.
+3. On 1-8-2017², the National Company Law Tribunal, Ahmedabad
+("NCLT") passed an order commencing the Corporate Insolvency
+Resolution Process ("CIRP") against the corporate debtor, and the
+appellant was appointed as the Interim Resolution Professional. In the
+same order, NCLT also declared a moratorium under Section 13(1)(a) of
+the IBC.
+4. On 21-8-2017, the appellant informed the respondent of the
+initiation of CIRP and sought custody of the warehoused goods and
+requested the respondent not to dispose of or auction the same. On 29-
+3-2019, the respondent for the first time, issued a notice to the
+corporate debtor regarding non-fulfilment of export obligations in terms
+of the EPCG licence demanding customs duty of Rs 17,13,989 with
+interest. From 2-4-2019 to 7-4-2019, the respondent issued five
+different demand notices to the corporate debtor regarding non-
+fulfilment of export obligations under different EPCG licences for various
+amounts.
+5. The details of the demand notices issued by the respondent for
+non-fulfilment of EPCG licence conditions by the corporate debtor are
+tabulated herein for ease of reference:
+SI.
+Date
+Details of demand notice
+Demanded amount
+No.
+(plus interest as
+applicable)
+1.
+29-3-
+EPCG Licence No. 5230007265
+Rs 17,13,989
+2019
+dated 16-7-2010
+2.
+2-4-
+EPCG Licence No. 5230008206
+Rs 96,20,325
+2019
+dated 16-11-2010
+3.
+4-4-
+EPCG Licence No. 5230007016
+Rs 53,29,072
+2019
+dated 17-5-2010
+4.
+5-4-
+EPCG Licence No. 5230007082
+Rs 2,05,73,402
+2019
+dated 3-6-2010
+5.
+5-4-
+EPCG Licence No. 5230006881
+Rs 6,64,646
+2019
+dated 31-3-2010
+6.
+7-4-
+EPCG Licence No. 5L32206936
+Rs 12,04,09,501
+2019
+dated 20-4-2010
+6. On 25-4-2019 NCLT passed an order commencing liquidation
+against the corporate debtor under Section 3(2) of the IBC. Vide the
+said order, NCLT declared that the earlier moratorium imposed under
+Section 13(1)(a) of the IBC shall cease to have effect by the operation
+of Section 14(4) of the IBC. However, a fresh direction was passed
+under Section 33(5) of the IBC barring the institution of any suit or
+legal proceeding by or against the corporate debtor. Further, NCLT also
+appointed the appellant as the liquidator vide the same order.
+7. Thereafter, the respondent filed claims before the appellant for
+goods warehoused in both Gujarat and Maharashtra on 20-5-2019, 27-
+5-2019 and 29-5-2019 under the IBC. On 27-6-2019, the appellant
+informed the respondent through its officers that liquidation
+proceedings had commenced against the corporate debtor and that the
+goods were to be released to the appellant.
+8. Due to inaction by the respondent, the appellant filed IA No. 474
+of 2019 before NCLT under Section 60(5) of the IBC seeking a direction
+against the respondent to release the warehoused goods belonging to
+the corporate debtor on 1-7-2019.
+9. At this juncture, for the first time on 11-7-2019, the respondent
+issued a notice to the corporate debtor under Section 72(1) of the
+Customs Act for customs dues amounting to Rs 763,12,72,645 on 2531
+bills of entries. The respondent filed a concurrent claim for the said
+amount before the appellant under the IBC. Details of the amount
+claimed by the respondent before the appellant are as follows:
+SI.
+Date
+Details of claims filed by
+Claimed amount
+No.
+respondent before appellant
+(plus interest as
+under Form C
+applicable)
+1.
+20-5-
+Non-fulfilment of obligations
+Rs 37,92,29,749
+2019
+under 11 EPCG licences
+2.
+27-5-
+Non-fulfilment of obligations
+Rs 151,33,06,859
+2019
+under 37 EPCG licences
+3.
+29-5-
+Non-clearing of imported
+Rs 22,70,50,898
+2019
+goods from Jawaharlal Nehru
+Port Trust, Nhava Sheva,
+Maharashtra
+4.
+18-9-
+Dues for all cargo in customs
+Rs 763,12,72,645
+2019
+bonded warehouses in Gujarat
+10. On 25-2-20204, NCLT allowed IA No. 474 of 2019 filed by the
+appellant and passed the following directions : (Sundaresh Bhatt case4,
+"14. Therefore, the present IA deserves to be allowed.
+Accordingly, it is allowed in terms of its prayer clause as well as with
+following directions.
+(i) The respondents are directed to allow the applicant-liquidator
+to remove the material, which is lying in the customs bonded
+warehouses without any condition, demur and/or payment of
+customs duty.
+(ii) The respondents are at liberty to lodge its claim with the
+applicant-liquidator with regard to the customs duty charges payable
+on the release of material, which form part of the assets of the
+corporate debtor company (in liquidation), before the liquidator
+under the provisions of the Insolvency and Bankruptcy Code, 2016
+and in accordance with law.
+(iii) The Customs Department shall allow removal of
+goods/material within two weeks, from the date of receipt of an
+authentic copy of this order from the liquidator.
+(iv) Meanwhile, the respondents shall not proceed for auctioning,
+selling or appropriating the materials owned by the corporate debtor
+company, for the purpose of recovery of its customs duty, which may
+tantamount to violation of the I&B Code and put the
+applicant/liquidator of the corporate debtor company (under
+liquidation) in disadvantageous position."
+11. NCLT considered Section 238 of the IBC and held that the non
+obstante clause in the IBC, being part of a subsequent law, shall have
+overriding effect on proceedings under the Customs Act. Further,
+looking to the waterfall mechanism under Section 53 of the IBC, NCLT
+held that distribution of proceedings from sale of liquidation of assets
+shall also prevail over the Customs Act provisions. NCLT held that, as
+government dues, the claims by the respondent would have to be dealt
+with in accordance with Section 53 of the IBC. Apart from the above,
+NCLT also placed reliance on a circular issued by the Central Board of
+Excise and Customs, being Circular No. 1053/02/2017-CX dated 10-3-
+2017 relating to Section 11-E of the Central Excise Act, 1944. The
+abovementioned circular clarifies that dues under the Central Excise Act
+would have first charge only after the dues under the provisions of the
+IBC are recovered. As Section 142-A of the Customs Act is pari materia
+with Section 11-E of the Central Excise Act, 1944, NCLT applied the
+same rationale to interpret the said section in holding that the
+provisions of the IBC have priority.
+12. Subsequent to the above judgment, the appellant sold the goods
+warehoused in Surat for a consideration of Rs 169.11 crores. The sales
+process with respect to the goods warehoused in Dahej, Gujarat is
+currently ongoing, and is challenged before this Court in CA No. 7722 of
+2021 and CA No. 7731 of 2021.
+13. On 4-3-2021, the respondent filed an appeal before NCLAT
+challenging the order dated 25-2-2020 4 passed by NCLT. On 22-11-
+20211, NCLAT passed the impugned order, whereby it allowed the
+appeal filed by the respondent and set aside the directions of NCLT
+requiring the respondent to release the warehoused goods to the
+possession of the appellant without seeking
+the customs dues. NCLAT rather directed that the warehoused goods
+can be "released or disposed of as per applicable provisions of the
+Customs Act by the proper officer".
+14. NCLAT, in allowing the appeal of the respondent, held that the
+goods lying in the customs bonded warehouse were not the corporate
+debtor's assets as they were neither claimed by the corporate debtor
+after their import, nor were the bills of entry cleared for some of the
+said goods. By not filing the said bills of entry, NCLAT held that the
+importer i.e. the corporate debtor, had relinquished his title to the
+imported goods. NCLAT held that the corporate debtor is deemed to
+have lost his title to the imported goods by action of Sections 48 and
+72 of the Customs Act. As such, the respondent is empowered to sell
+the goods and recover the government dues.
+15. NCLAT held that "imported goods", which are subject to levy of
+customs, stand on a different footing as payment of customs duty is a
+consequence of importing the goods rather than a liability on the
+corporate debtor to pay it. The appellant cannot stand at a better
+footing than the corporate debtor that he represents and cannot take
+possession of assets which the corporate debtor itself could not have
+obtained. Customs duty therefore needs to be paid for the release of
+the warehoused goods.
+16. NCLAT held that the Customs Act is a complete code which
+provides that warehoused goods cannot be released until the import
+duties are paid. Mere filing of claims under "Form C" by the respondent
+before the appellant cannot be taken to signify the relinquishment of
+the right of the respondent over the warehoused goods.
+17. On the issue of priority of IBC over the Customs Act, NCLAT held
+that the issue did not arise in the present case, as the goods in
+question were imported prior in time to the initiation of the CIRP. While
+the containers were imported between 2012 to 2015, the CIRP was
+initiated only in 2017 and the corporate debtor went into liquidation in
+2019. By not paying the import duties, the corporate debtor had lost
+the right to the warehoused goods prior to the initiation of the CIRP.
+NCLAT held that these warehoused goods stand on a different footing
+and cannot be considered assets of the corporate debtor which were
+subject to the IBC provisions.
+18. Aggrieved by the above judgment passed by NCLAT, the
+appellant has filed the present civil appeal against the impugned
+judgment
+19. Mr Arvind P. Datar, learned Senior Counsel appearing on behalf
+of the appellant, submitted as follows:
+19.1. The corporate debtor is the owner of the goods. The learned
+Senior Counsel referred to Section 48 of the Customs Act and stated
+that it only applies to goods which are neither cleared nor warehoused
+by the importer. This section, however, is not applicable to the present
+case as the notice issued and Form C filed by the respondent are in
+relation to warehoused goods. Thus, the notice issued by the
+respondent under Section 72 of the Customs Act and the consequent
+Form C does not in any manner attract Section 48 of the Customs Act.
+19.2. The corporate debtor has not lost ownership of the goods as
+alleged by the respondent. The respondent, by issuing notice under
+Section 72 of the Customs Act and filing its claim with the liquidator,
+has admitted that the corporate debtor is the owner. Neither Section 72
+nor Section 48 of the Customs Act signifies any transfer to the
+respondent. The corporate debtor has also never relinquished title to
+the goods and no communication regarding the same has been made to
+the respondent.
+19.3. By submitting claims under Section 38 of the IBC, the
+respondent has elected to subject its dues to be governed by the IBC,
+and more specifically, to the distribution matrix provided Section 53 of
+the IBC. The claims made by the respondent before the appellant are
+based solely on the corporate debtor's ownership of the goods. The
+respondent cannot blow hot and cold at the same time by again
+claiming before this Court that the corporate debtor has lost ownership
+of the said goods.
+19.4. The respondent could not have exercised its right under the
+Customs Act, as the statutory charge of the respondent under Section
+142-A of the Customs Act is expressly subordinate to the IBC.
+19.5. The respondent's custody of the corporate debtor's goods is in
+violation of Sections 14 and 33 of the IBC. Section 14(1)(a) of the IBC
+expressly prohibits the institution or continuation of proceedings
+against the corporate debtor during the moratorium period. Further,
+Section 14(1)(c) states that foreclosure, recovery, or enforcement of
+any security interest against the corporate debtor is prohibited.
+20. Mr K.M. Nataraj, learned Additional Solicitor General of India
+appearing for the respondent, submitted as under:
+20.1. The goods left in the customs bonded warehouse are not the
+assets of the corporate debtor. This is because these goods were never
+claimed after being imported. As per the record, the goods were
+imported between the years 2012 and 2015, and the corporate debtor
+started the liquidation process in 2019. In this span of 4 years, the
+corporate debtor never cleared bills of entry for part of the goods and
+abandoned all the material lying in the customs bonded warehouse.
+Despite receipt of various demand notices by the respondent, the
+corporate debtor did not clear the goods and hence the same are liable
+to be sold by the respondent under the Customs Act.
+20.2. The liquidator can take into his possession only the assets of
+the corporate debtor as under Section 35(1)(b) of the IBC. However, in
+the present case, the warehoused goods cannot be termed as assets of
+the corporate debtor, until and unless the same are legally cleared from
+the warehouses upon payment of relevant dues and duties. The
+corporate debtor herein has not even paid the bill of entry for part of
+the goods.
+20.3. Section 45 of the Customs Act lays down restrictions on
+custody and removal of imported goods. It stipulates that all imported
+goods unloaded in the customs area shall remain in the custody of such
+person approved by the Commissioner till the time the same are
+cleared for home consumption or
+are warehoused or transhipped. Further, it provides that if such goods
+are not cleared as per the criteria mentioned above, they can be sold
+after permission from the proper officer. Section 71 of the Customs Act
+further states that no goods shall be taken out of the warehouse except
+as provided under by the Customs Act. Hence, the goods cannot be
+removed without payment of import duties and charges.
+20.4. The corporate debtor has abandoned the imported goods for
+several years, refused to pay the import duties and other charges, and
+has not taken any effort to take possession of the goods for several
+years. Consequently, the corporate debtor has lost its right to the
+warehoused goods, and hence under Section 72 of the Customs Act,
+the government authorities are fully authorised to recover the dues. In
+such a circumstance, where the corporate debtor's title to the goods
+has been deemed to have been relinquished, the liquidator does not
+have the authority to take possession of them.
+20.5. Customs duty is an incidence or consequence of import. Even
+before the CIRP was initiated, the corporate debtor could not have
+secured the possession of the warehoused goods without paying the
+due charges. Hence, the liquidator, who is representing the corporate
+debtor, cannot stand on a better footing than the corporate debtor
+itself.
+20.6. It is further submitted that merely because the respondent
+had filed its claim before the liquidator, it cannot be said that the
+respondent had relinquished its rights over the warehoused goods. The
+claim was filed by the respondent only to realise its dues, and hence
+cannot be viewed as a relinquishment or abandonment of its rights.
+21. In light of the arguments advanced and the documents
+submitted before this Court, we are called upon to answer two
+important questions which arise for our consideration:
+21.1. (a) Whether the provisions of the IBC would prevail over the
+Customs Act, and if so, to what extent?
+21.2. (b) Whether the respondent could claim title over the goods
+and issue notice to sell the goods in terms of the Customs Act when the
+liquidation process has been initiated?
+Analysis
+22. It must be noted that this question assumes significance as the
+warehoused goods belonging to the corporate debtor which is under
+liquidation, are sought to be sold by the Customs Authorities in lieu of
+customs dues. The respondent has relied on certain provisions of the
+Customs Act to assume such power. This has been vehemently opposed
+by the appellant herein, who has argued that once the insolvency
+process has been initiated against the corporate debtor, the IBC
+becomes squarely applicable and overrides any other enactment giving
+priority to the charges on the property.
+23. NCLAT has not directly answered this question of law. Rather, it
+has entered into the facts of the case to distinguish the applicability of
+the IBC as compared to the Customs Act. NCLAT held that the corporate
+debtor had abandoned the goods much before the insolvency process
+was initiated, and thereby the title of the goods had passed to the
+Customs Authority.
+NCLAT paras 41, 45, 48 & 49)
+"41. Thus, it is clear that NCLT and NCLAT cannot usurp the
+legitimate jurisdiction of other courts, tribunals and fora when the
+dispute does not arise solely from or relating to the insolvency of the
+corporate debtor. In the instant case, the corporate debtor had
+abandoned the imported goods in the customs warehouses for
+several years and failed to pay the import duty and other charges
+and had not taken any steps to take possession of those goods for
+several years. Therefore, the importer had lost his right to the
+imported goods. Consequently, the Customs Authorities are fully
+empowered under Section 72 of the Act to sell those goods to
+recover the government dues. The liquidator has no right to take into
+possession over those goods for which the corporate debtor's title is
+deemed relinquished by implication of law. Even before initiating the
+Corporate Insolvency Resolution Process, the corporate debtor
+company could not have secured the possession of the imported
+goods except by paying the customs duty. The Resolution
+Professional/Liquidator, who virtually represents the Company,
+cannot stand on a better footing than the corporate debtor itself.
+*
+*
+*
+45. In the instant case, the appellant has filed its claim before the
+liquidator in response to the notice issued by the liquidator. Given
+the law laid down by the Hon'ble Supreme Court in the
+abovementioned case*, it is clear that by submission of claim in
+response to the notice issued by the liquidator, it cannot be
+presumed that the appellant had relinquished its right over the
+property and submitted to the jurisdiction of the liquidator. The
+claim is filed in an effort to realise its dues. Still, it will not amount
+to relinquishment of its right over the warehoused goods under its
+custody for which the appellant has every right to sell those goods
+for the realisation of the government dues.
+*
+*
+*
+48. We are not convinced with the argument advanced by the
+respondent because the goods imported by the corporate debtor
+were imported much before the initiation of the Corporate Insolvency
+Resolution Process, and the corporate debtor never claimed them
+after import. Undisputedly the containers were imported between
+2012 to 2015. The CIRP was initiated against the corporate debtor in
+2017, and the liquidation order was passed on 25-4-2019³.
+49. Therefore, the corporate debtor's assets because the corporate
+debtor never made any effort for clearing the goods by paying
+customs duty and other applicable charges before the initiation of
+liquidation proceeding after importing them. Undisputedly the
+containers were imported between 2012 to 2015. The CIRP was
+initiated against the corporate debtor in 2017, and the liquidation
+order was passed in 25-4-2019³. Therefore the assets lying in the
+customs bonded warehouses cannot be considered assets of the
+corporate debtor. The liquidator intends to possess the uncleared
+goods from the customs warehouses without upfront payment of
+customs duty, which is against the statutory provisions of the
+Customs Act, 1962. Therefore, the imported goods subject to levy of
+customs stand on a different footing than the goods/assets, not in
+the corporate debtor's possession. Therefore, the assets lying in the
+customs bonded warehouses cannot be considered assets of the
+corporate debtor."
+25. In the above context, this Court is required to analyse whether
+NCLAT's treatment of the facts is correct or if a fresh look is required.
+Before we enter into a detailed discussion and analysis of the case at
+hand, it would be beneficial to analyse certain provisions of the
+Customs Act which may be relevant to this case.
+26. When goods are imported/exported from India, such goods may
+be subjected to customs duty as indicated under Section 12 of the
+Customs Act. There are many objectives behind such exaction - some
+of it is to maintain trade balance, control imports and exports,
+protection of domestic industry, prevention of smuggling, conservation
+and augmentation of foreign exchange, and so on.
+27. When goods are imported, it can be either for home
+consumption or for transshipment. An importer can either choose to
+pay the duty and utilise the goods immediately for domestic usage or
+execute a bond so as to warehouse the said goods. Accordingly, an
+importer has to submit a bill of entry either for home consumption or
+for warehousing in terms of Section 46 of the Customs Act, in the
+prescribed format.
+28. When a person chooses to warehouse the goods, he ought to
+execute a bond in terms of Section 59 of the Customs Act. Such
+warehoused goods can subsequently be either cleared for home
+consumption or can be exported.
+29. Section 61 of the Customs Act mandates the time period allowed
+for warehousing. For example, in the case of capital goods intended for
+a 100% export-oriented undertaking, warehousing is permitted till such
+goods are cleared from the warehouse. In case of goods not intended
+for such export-oriented purpose, a time period of one year is
+prescribed in terms of Section 61(1)(c) of the Customs Act. The
+provision also provides for an extension which could be granted by the
+appropriate authority, for a period of not more than one year. Under
+Section (2) of the Customs Act, provision is made to charge interest
+on those goods which are warehoused beyond the period granted.
+30. Section 71 of the Customs Act provides that no warehoused
+goods shall be taken out of the warehouse, except on clearance for
+home consumption or export or for removal to another warehouse, or as
+provided by the Act.
+31. Section 72 of the Customs Act, 1962 deals with the issue of
+when the goods can be said to have been improperly removed from the
+warehouse. As this provision is of some relevance to the present case, it
+is extracted below:
+"72. Goods improperly removed from warehouse, etc.-(1)
+In any of the following cases, that is to say,
+(a) where any warehoused goods are removed from a warehouse
+in contravention of Section 71;
+(b) where any warehoused goods have not been removed from a
+warehouse at the expiration of the period during which such goods
+are permitted under Section 61 to remain in a warehouse;
+*
+*
+*
+(d) where any goods in respect of which a bond has been
+executed under Section 59 and which have not been cleared for
+home consumption or export or are not duly accounted for to the
+satisfaction of the proper officer,
+the proper officer may demand, and the owner of such goods shall forthwith pay,
+the full amount of duty chargeable on account of such goods together with interest,
+fine and penalties payable in respect of such goods.
+(2) If any owner fails to pay any amount demanded under sub-
+section (1), the proper officer may, without prejudice to any other
+remedy, cause to be detained and sold, after notice to the owner
+(any transfer of the goods notwithstanding) such sufficient portion of
+his goods, if any, in the warehouse, as the said officer may deem
+fit."
+From the aforesaid, it can be noted that when goods are warehoused
+and the importer has not taken sufficient steps to take the goods out
+for domestic consumption or for transshipment, within the required
+time period, then the proper officer has to take steps in terms of
+Section 72(2) of the Customs Act. The aforesaid provision mandates
+that it is only after the determination of dues by the proper officer that
+goods may be sold, in the event that the demanded amount relating to
+customs duty, interest, fines, and other penalties have not been paid.
+In that case alone, after such determination, a sufficient portion of
+goods may be sold.
+32. In order to complete the discussion on the Customs Act, it may
+be necessary to take note of Section 142-A extracted below:
+"142-A. Liability under Act to be first charge.-
+Notwithstanding anything to the contrary contained in any Central
+Act or State Act, any amount of duty, penalty, interest or any other
+sum payable by an assessee or any other person under this Act,
+shall, save as otherwise provided in Section 529-A of the Companies
+Act, 1956 (1 of 1956), the Recovery of Debts Due to Banks and the
+Financial Institutions Act, 1993 (51 of 1993), and the Securitisation
+and Reconstruction of Financial Assets and the Enforcement of
+Security Interest Act, 2002 (54 of 2002) and the Insolvency and
+Bankruptcy Code, 2016 (31 of 2016) be the first charge on the
+property of the assessee or the person, as the case may be."
+33. In the present case, the corporate debtor as part of its business
+used to regularly import and warehoused goods in the customs bonded
+warehouses from at least 2011. As has already been mentioned above,
+the CIRP process commenced against the corporate debtor on 1-8-2017
+by the order2 of NCLT. It appears from the record that no notices were
+issued by the respondent against the corporate debtor with respect to
+the warehoused goods prior to initiation of the CIRP. In fact, all the
+duty demand notices issued by the respondent were from March 2019
+onwards. It is in this context that it is necessary for us to ascertain
+whether the IBC overrides the Customs Act or vice versa.
+34. The Insolvency and Bankruptcy Code came into force in India
+from 28-5-2016 to combine provisions relating to insolvency found
+across different statutes into a single comprehensive instrument. Under
+the earlier legal regime, different statutes were resulting in multiple
+parallel proceedings, which inevitably resulted in uncertainty for the
+creditors over their recovery. One of the objectives behind the
+enactment of the IBC was to end the conflict between different
+statutes.
+35. The purpose behind Insolvency law has been captured in
+Halsbury's Laws of England (Para 8, Vol. III, 4th Edn.) in the following
+manner:
+"A man has a perfect right, so long as he is solvent, to continue
+a
+losing business; but the moment he becomes insolvent he does so at
+the risk of his creditors. As soon as he finds that he cannot pay loop
+in the pound, although he may nevertheless think that if he goes on
+he may be able to retrieve his position, he ought to call together his
+creditors, who will have to bear the loss in case his calculations are
+wrong, and leave them to determine whether the business shall be
+continued or not. Moreover, it is not enough to consult only the
+largest creditors. There is no insolvency within the meaning of this
+offence if a careful, prudent, and unhurried realisation of the assets
+would produce enough to pay loop in the pound on the amount of
+liabilities."
+36. It may be relevant to capture a brief outlook as to various stages
+involved in the corporate insolvency process in India:
+36.1. When a financial default occurs, either the borrower (corporate
+debtor under Section 10 read with Section 11 of the IBC) or the lender
+(creditors - financial creditor under Section 7 or operational creditor
+under Section 9 of the IBC) can approach NCLT for initiating the
+resolution process. Operational creditors need to give a notice of 10
+days to the corporate debtor before approaching NCLT. If the corporate
+debtor fails to repay dues to the operational creditor, or fails to show
+any existing dispute or arbitration, then the operational creditor can
+approach NCLT.
+36.2. Upon admission of an application by NCLT, the claims of the
+creditor will be frozen for 180 days, during which time, NCLT will hear
+proposals for revival of the corporate debtor and decide on future
+course of action. During this period, a moratorium is imposed to ensure
+no coercive proceedings are launched or continued against the
+corporate debtor in any other forum or under any other law, until
+approval of the resolution plan or initiation of the liquidation process.
+36.3. NCLT first appoints an interim resolution professional. The
+interim resolution professional is to hold office until a resolution
+professional is appointed. He further takes control of the corporate
+debtor's operations and collects its financial information from
+information utilities. NCLT must also ensure public announcement of
+the initiation of corporate insolvency process and call for submission of
+claims.
+36.4. The corporate insolvency process must normally be completed
+within 180 days of admission of the application by NCLT. The
+Committee of Creditors has to then take decisions regarding insolvency
+resolution as provided by law.
+37. In this context, we may note that when the insolvency process
+commences, the adjudicating authority is mandated to declare a
+moratorium on continuation or initiation of any coercive legal action
+against the corporate debtor. Section 14 of the IBC reads as under:
+"14. Moratorium.-(1) Subject to provisions of sub-sections (2)
+and (3), on the insolvency commencement date, the adjudicating
+authority shall by order declare moratorium for prohibiting all of the
+following, namely-
+(a) the institution of suits or continuation of pending suits or
+proceedings against the corporate debtor including execution of any
+judgment, decree or order in any court of law, tribunal, arbitration
+panel or other authority;
+(b) transferring, encumbering, alienating or disposing of by the
+corporate debtor any of its assets or any legal right or beneficial
+interest therein;
+(c) any action to foreclose, recover or enforce any security interest
+created by the corporate debtor in respect of its property including
+any action under the Securitisation and Reconstruction of Financial
+Assets and Enforcement of Security Interest Act, 2002 (54 of 2002);
+(d) the recovery of any property by an owner or lessor where such
+property is occupied by or in the possession of the corporate debtor.
+Explanation - For the purposes of this sub-section, it is hereby
+clarified that notwithstanding anything contained in any other law for
+the time being in force, a licence, permit, registration, quota,
+concession, clearances or a similar grant or right given by the
+Central Government, State Government, local authority, sectoral
+regulator or any other authority constituted under any other law for
+the time being in force, shall not be suspended or terminated on the
+grounds of insolvency, subject to the condition that there is no
+default in payment of current dues arising for the use or continuation
+of the licence, permit, registration, quota, concession, clearances or
+a similar grant or right during the moratorium period.
+(2) The supply of essential goods or services to the corporate
+debtor as may be specified shall not be terminated or suspended or
+interrupted during moratorium period.
+(2-A) Where the interim resolution professional or resolution
+professional, as the case may be, considers the supply of goods or
+services critical to protect and preserve the value of the corporate
+debtor and manage the operations of such corporate debtor as a
+going concern, then the supply of such goods or services shall not be
+terminated, suspended or interrupted during the period of
+moratorium, except where such corporate debtor has not paid dues
+arising from such supply during the moratorium period or in such
+circumstances as may be specified.
+(3) The provisions of sub-section (1) shall not apply to-
+(a) such transactions, agreements or other arrangements as may
+be notified by the Central Government in consultation with any
+financial sector regulator or any other authority;
+(b) a surety in a contract of guarantee to a corporate debtor.
+(4) The order of moratorium shall have effect from the date of
+such order till the completion of the corporate insolvency resolution
+process:
+Provided that where at any time during the corporate insolvency
+resolution process period, if the adjudicating authority approves the
+resolution plan under sub-section (1) of Section 31 or passes an
+order for liquidation of corporate debtor under Section 33, the
+moratorium shall cease to have effect from the date of such approval
+or liquidation order, as the case may be."
+38. Section 14 of the IBC prescribes a moratorium on the initiation
+of CIRP proceedings and its effects. One of the purposes of the
+moratorium is to keep the assets of the corporate debtor together
+during the insolvency resolution process and to facilitate orderly
+completion of the processes envisaged under the statute. Such
+measures ensure the curtailing of parallel proceedings and reduce the
+possibility of conflicting outcomes in the process. In this context, it is
+relevant to quote the February 2020 Report of the Insolvency Law
+Committee, which notes as under:
+"8.2. The moratorium under Section 14 is intended to keep 'the
+corporate debtor's assets together during the insolvency resolution
+process and facilitating orderly completion of the processes
+envisaged during the insolvency resolution process and ensuring that
+the company may continue as a going concern while the creditors
+take a view on resolution of default'. Keeping the corporate debtor
+running as a going concern during the CIRP helps in achieving
+resolution as a going concern as well, which is likely to maximise
+value for all stakeholders. In other jurisdictions too, a moratorium
+may be put in place on the advent of formal insolvency proceedings,
+including liquidation and reorganisation proceedings. UNCITRAL Guide
+notes that a moratorium is critical during reorganisation proceedings
+since it 'facilitates the continued operation of the business and
+allows the debtor a breathing space to organise its affairs, time for
+preparation and approval of a reorganisation plan and for other steps
+such as shedding unprofitable activities and onerous contracts,
+where appropriate'."
+From the above, it can be seen that one of the motivations of imposing
+a moratorium is for Sections 14(1)(a), (b) and (c) of the IBC to form a
+shield that protects pecuniary attacks against the corporate debtor. This
+is done in order to provide the corporate debtor with breathing space,
+to allow it to continue as a going concern and rehabilitate itself. Any
+contrary interpretation would crack this shield and would have adverse
+consequences on the objective sought to be achieved.
+39. Even if a company goes into liquidation, a moratorium continues
+in terms of Section 33(5) of the IBC which reads as under:
+"33. (5) - Subject to Section 52, when a liquidation order has
+been passed, no suit or other legal proceeding shall be instituted by
+or against the corporate debtor:
+Provided that a suit or other legal proceeding may be instituted by
+the liquidator, on behalf of the corporate debtor, with the prior
+approval of the adjudicating authority."
+40. We may note that the IBC, being the more recent statute,
+clearly overrides the Customs Act. This is clearly made out by a reading
+of Section 142-A of the Customs Act. The aforesaid provision notes that
+the Customs Authorities would have first charge on the assets of an
+assessee under the Customs Act, except with respect to cases under
+Section 529-A of the Companies Act, 1956; Recovery of Debts and
+Bankruptcy Act, 1993; Securitisation and Reconstruction of Financial
+Assets and Enforcement of Security Interest Act, 2002 and the IBC,
+2016. Accordingly, such an exception created under the Customs Act is
+duly acknowledged under Section 238 of the IBC as well.
+41. Additionally, we may note that Section 238 of the IBC clearly
+overrides any provision of law which is inconsistent with the IBC.
+Section 238 of the IBC provides as under:
+"238. Provisions of this Code to override other laws.-The
+provisions of this Code shall have effect, notwithstanding anything
+inconsistent therewith contained in any other law for the time being
+in force or any instrument having effect by virtue of any such law."
+42. NCLAT, while playing down the effect of Section 142-A of the
+Customs Act and Section 238 of the IBC, has held that the Customs Act
+is a complete code in itself and no person can seek removal of goods
+from the warehouse without paying customs duty. NCLAT relies on the
+judgment in Collector of Customs V. Dytron (India) Ltd. 5 by the High
+Court of Calcutta, which laid down that customs duty carry first charge
+even during the insolvency process under Sections 529 and 530 of the
+Companies Act, 1956. However, reliance on the said precedent is not
+appropriate as NCLAT has failed to notice that such interpretation has
+been legislatively overruled by the inclusion of Section 142-A under the
+Customs Act, through Section 51 of the Finance Act of 2011.
+43. From the above, it is to be noted that the Customs Act and the
+IBC act in their own spheres. In case of any conflict, the IBC overrides
+the Customs Act. In present context, this Court has to ascertain as to
+whether there is a conflict in the operation of two different statutes in
+the given circumstances. As the first effort, this Court is mandated to
+harmoniously read the two legislations, unless this Court finds a clear
+conflict in its operation.
+44. At the cost of repetition, we may note that the demand notices
+issued by the respondent are plainly in the teeth of Section 14 of the
+IBC as they were issued after the initiation of the CIRP proceedings.
+Moratorium under Section 14 of the IBC was imposed when insolvency
+proceedings were initiated on 1-8-2017-Superscript(2), The first notice sent by the
+respondent authority was on 29-3-2019. Further, when insolvency
+resolution failed and the liquidation process began, NCLT passed an
+order on 25-4-2019 imposing a moratorium under Section 33(5) of the
+IBC. It is only after this order that the respondent issued a notice under
+Section 72 of the Customs Act against the corporate debtor. The
+various demand notices have therefore clearly been issued by the
+respondent after the initiation of the insolvency proceedings, with some
+notices issued even after the liquidation moratorium was imposed.
+45. We are of the clear opinion that the demand notices to seek
+enforcement of customs dues during the moratorium period would
+clearly violate the provisions of Sections 14 or 33(5) of the IBC, as the
+case may be. This is because the demand notices are an initiation of
+legal proceedings against the corporate debtor. However, the above
+analysis would not be complete unless this Court examines the extent
+of powers which the respondent authority can exercise during the
+moratorium period under the IBC.
+46. In the above context, the judgment of this Court in S.V.
+Kandoakar V. V.M. Deshpande6, is extremely relevant. In that case, this
+Court, while expounding the interplay of Section 446 of the Companies
+Act, 1956 (bankruptcy provision) with the Income Tax Act, 1961, held
+"17.
+Looking at the legislative history and the scheme of the
+Indian Companies Act, particularly the language of Section 446, read
+as a whole, it appears to us that the expression "other legal
+proceeding" in sub-section (1) and the expression "legal proceeding"
+in sub-section (2) convey the same sense and the proceedings in
+both the sub-sections must be such as can appropriately be dealt
+with by the winding-up court. The Income Tax Act is, in our opinion,
+a complete code and it is particularly so with respect to the
+assessment and reassessment of income tax with which alone we are
+concerned in the present case. The fact that after the amount of tax
+payable by an assessee has been determined or quantified its
+realisation from a company in liquidation is governed by the Act
+because the income
+tax payable also being a debt has to rank pari passu with other debts
+due from the company does not mean that the assessment proceedings
+for computing the amount of tax must be held to be such other legal
+proceedings as can only be started or continued with the leave of the
+liquidation court under Section 446 of the Act. The liquidation court, in
+our opinion, cannot perform the functions of Income Tax Officers while
+assessing the amount of tax payable by the assessees even if the
+assessee be the company which is being wound up by the Court. The
+orders made by the Income Tax Officer in the course of assessment or
+reassessment proceedings are subject to appeal to the higher hierarchy
+under the Income Tax Act. There are also provisions for reference to the
+High Court and for appeals from the decisions of the High Court to the
+Supreme Court and then there are provisions for revision by the
+Commissioner of Income Tax. It would lead to anomalous consequences
+if the winding-up court were to be held empowered to transfer the
+assessment proceedings to itself and assess the company to income
+tax. The argument on behalf of the appellant by Shri Desai is that the
+winding-up court is empowered in its discretion to decline to transfer
+the assessment proceedings in a given case but the power on the plain
+language of Section 446 of the Act must be held to vest in that court to
+be exercised only if considered expedient. We are not impressed by this
+argument. The language of Section 446 must be so construed as to
+eliminate such startling consequences as investing the winding-up
+court with the powers of an Income Tax Officer conferred on him by the
+Income Tax Act, because in our view the legislature could not have
+intended such a result.
+18. The argument that the proceedings for assessment
+or
+reassessment of a company which is being wound up can only be
+started or continued with the leave of the liquidation court is also, on
+the scheme both of the Act and of the Income Tax Act,
+unacceptable. We have not been shown any principle on which the
+liquidation court should be vested with the power to stop
+assessment proceedings for determining the amount of tax payable
+by the company which is being wound up. The liquidation court
+The surest way legal research!
+would have full power to scrutinise the claim of the revenue after
+income tax has been determined and its payment demanded from
+the liquidator. It would be open to the liquidation court then to
+decide how far under the law the amount of income tax determined
+by the Department should be accepted as a lawful liability on the
+funds of the company in liquidation. At that stage the winding-up
+court can fully safeguard the interests of the company and its
+creditors under the Act. Incidentally, it may be pointed out that at
+the Bar no English decision was brought to our notice under which
+the assessment proceedings were held to be controlled by the
+winding-up court.
+On the view that we have taken, the decisions in Seth Spinning Mills
+and Mysore Spun Silk Mills do not seem to lay down the correct rule of
+law that the Income Tax Officers must obtain leave of the winding-up
+court for commencing or continuing assessment or reassessment
+proceedings."
+47. Therefore, this Court in V.M. Deshpande case 6 held that the
+authorities can only take steps to determine the tax, interest, fines or
+any penalty which is due. However, the authority cannot enforce a
+claim for recovery or levy of interest on the tax due during the period of
+moratorium. We are of the opinion that the above ratio squarely applies
+to the interplay between the IBC and the Customs Act in this context.
+48. From the above discussion, we hold that the respondent could
+only initiate assessment or reassessment of the duties and other levies.
+They cannot transgress such boundary and proceed to initiate recovery
+in violation of Sections 14 or 33(5) of the IBC. The interim resolution
+professional, resolution professional or the liquidator, as the case may
+be, has an obligation to ensure that assessment is legal and he has
+been provided with sufficient power to question any assessment, if he
+finds the same to be excessive.
+49. There is another aspect of this case that needs to be highlighted
+to portray the inconsistency of the Customs Act vis-à-vis the IBC
+during the moratorium period. In the present case, the demand notice
+dated 11-7-2019 was issued by the respondent under Section 72 of the
+Customs Act, in clear breach of the moratorium imposed under Section
+33(5) of the IBC. Issuing a notice under Section 72 of the Customs Act
+for non-payment of customs duty falls squarely within the ambit of
+initiating legal proceedings against a corporate debtor. Even under the
+liquidation process, the liquidator is given the responsibility to secure
+assets and goods of the corporate debtor under Section 35(1)(b) of the
+IBC.
+50. As laid down earlier, the Customs Act and IBC can be read in a
+harmonious manner wherein the authorities under the Customs Act
+have a limited jurisdiction to determine the quantum of operational
+debt - in this case, the customs duty - in order to stake claim in
+terms of Section 53 of the IBC before the liquidator. However, the
+respondent does not have the power to execute its claim beyond the
+ambit of Section 53 of the IBC. Such harmonious construction would be
+in line with the ruling in Gujarat Urja Vikas Nigam Ltd. V. Amit Gupta9,
+wherein a balance was struck by this Court between the jurisdiction of
+NCLT under the IBC and the potential encroachment on the legitimate
+jurisdiction of other authorities.
+51. However, it appears to us that in the impugned order1, NCLAT
+has misinterpreted the aforesaid judgment of this Court in Gujarat Urja
+OnLine NCLAT para 41)
+"41. Thus, it is clear that NCLT and NCLAT cannot usurp the
+legitimate jurisdiction of other courts, tribunals and fora when the
+dispute does not arise solely from or relating to the insolvency of the
+corporate debtor. In the instant case, the corporate debtor had
+abandoned the imported goods in the customs warehouses for
+several years and failed to pay the import duty and other charges
+and had not taken any steps to take possession of those goods for
+several years. Therefore, the importer had lost his right to the
+imported goods. Consequently, the Customs Authorities are fully
+empowered under Section 72 of the Act to sell those goods to
+recover the government dues. The liquidator has no right to take into
+possession over those goods for which the corporate debtor's title is
+deemed relinquished by implication of law. Even before initiating the
+Corporate Insolvency Resolution Process, the corporate debtor
+company could not have secured the possession of the imported
+goods except by paying the customs duty. Resolution
+Professional/liquidator, who virtually represents the company, cannot
+stand on a better footing than the corporate debtor itself."
+52. Such interpretation clearly ignores the fact that there was no
+"abandonment of goods" which would authorise the Customs
+Authorities to initiate the adjudicatory process to transfer title to
+themselves. Before any goods can be declared to have been
+"abandoned", the same must be adjudged by some authority after due
+notice. The position cannot be assumed or deemed. In the case at
+hand, no such adjudication or notice has been placed on record to
+suggest that such abandonment of the warehoused goods had taken
+place prior to the imposition of the moratorium.
+53. NCLAT, by deciding the question of passing of title from the
+corporate debtor to the respondent authority, has clearly ignored the
+mandate of Section 72(2) of the Customs Act relating to sale. This
+interpretation of NCLAT clearly ignores the effects of the moratorium
+under Sections 14 and 33(5) of the IBC. The fact is that the duty
+demand notice and notice under Section 72(2) of the Customs Act,
+were issued during the moratorium period, which has been completely
+ignored by NCLAT and has resulted in rendering the moratorium otiose.
+54. The interpretation provided by NCLAT, regarding the deemed
+transfer of title of the goods from the assessee to the Customs
+Authority under Section 72 of the Customs Act, would fly in the face of
+Section 14 of the IBC, read with Sections 25 and 33(5). Moreover, such
+deemed transfer cannot be countenanced in law as the same would be
+in breach of Article 300-A of the Constitution, as properties are deemed
+to be transferred to the Customs Authority without there being
+adequate hearing or any adjudication of any form. Such an
+interpretation cannot be accepted by this Court.
+55. Interestingly, in the present case, on 20-5-2019, 27-5-2019, 29
+-5-2019 and 18-9-2019 the Customs Authorities filed Form C under
+Regulation 17 of the IBBI Liquidation Process Regulations, 2016 before
+the appellant/liquidator in order to stake claims for distribution of
+proceeds of sale in consonance with Section 53 of the IBC. The
+respondent authority, does a U-turn on filing such claims and instead,
+unilaterally decides to initiate recovery proceedings under Section 72
+(2) of the Customs Act. Further, the Customs Authority bypasses even
+the notice and adjudicatory requirements contemplated under Section
+72(2) of the Customs Act and takes the position that there is a deemed
+transfer of title with respect to the assets as customs duty and other
+levies were not duly paid. Such a change in stance is clearly an
+afterthought, without there being any basis in law to bypass the
+specialised procedure laid down under the IBC.
+56. For the sake of clarity following questions, may be answered as
+under:
+(a) Whether the provisions of the IBC would prevail over the
+Customs Act, and if so, to what extent?
+56.1. The IBC would prevail over the Customs Act, to the extent that
+once moratorium is imposed in terms of Sections 14 or 33(5) of the IBC
+as the case may be, the respondent authority only has a limited
+jurisdiction to assess/determine the quantum of customs duty and
+other levies. The respondent authority does not have the power to
+initiate recovery of dues by means of sale/confiscation, as provided
+under the Customs Act.
+(b) Whether the respondent could claim title over the goods and
+issue notice to sell the goods in terms of the Customs Act when
+the liquidation process has been initiated?
+56.2. Answered in negative.
+57. On the basis of the above discussions, following are our
+conclusions:
+57.1. Once moratorium is imposed in terms of Sections 14 or 33(5)
+of the IBC as the case may be, the respondent authority only has a
+limited jurisdiction to assess/determine the quantum of customs duty
+and other levies. The respondent authority does not have the power to
+initiate recovery of dues by means of sale/confiscation, as provided
+under the Customs Act.
+57.2. After such assessment, the respondent authority has to submit
+its claims (concerning customs dues/operational debt) in terms of the
+procedure laid down, in strict compliance of the time periods prescribed
+under the IBC, before the adjudicating authority.
+57.3. In any case, the IRP/RP/liquidator can immediately secure
+goods from the respondent authority to be dealt with appropriately, in
+terms of the IBC.
+58. Resultantly, we allow the appeal and set aside the impugned
+order and judgment of NCLAT. There shall be no orders as to costs.
++
+Arising from the Judgment and Order in Central Board of Indirect Taxes & Customs V.
+Company Appeal (AT) (Insolvency) No. 236 of 2021, dt. 22-11-2021] [Reversed]
+1
+2244
+2
+3
+4
+2191
+*
+452.
+5
+(Cal)
+6
+7
+8
+295
+9
